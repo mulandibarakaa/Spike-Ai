@@ -1,0 +1,16 @@
+{
+    "namehttps://i.imgur.com/GlcMZPx.jpeg":"Spike",
+"mask":"❝ Ⓒ𝐒𝐩𝐢𝐤𝐞 ❞",
+"thumb":"https://i.imgur.com/GlcMZPx.jpeg",
+"description":"Spike is a whatsapp multi device bot by GasComIT build with nodejs based on Baileys framework",
+"sessionName": "spike","version":"1.1.3",
+"logo":"https://i.imgur.com/GlcMZPx.jpeg",
+"owner":"Mohalicious",
+"source":"https://github.com/GasComIT/Spike",
+"language":"English","timeZone":"Africa/Nairobi",
+"website":"https://spike.gascomit.repl.co",
+"globalPrefix":".",
+"devs":["254718241545@s.whatsapp.net","254735306047@s.whatsapp.net"],
+"support":"https://chat.whatsapp.com/D9gPfFXQq2lGL77meDgd8h"
+
+}

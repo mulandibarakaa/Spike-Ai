@@ -1,0 +1,58 @@
+{
+  "name": "❝ Ⓒ𝐒𝐩𝐢𝐤𝐞 ❞",
+  "description": "whatsapp multi device bot by GasComIT build with nodejs on baileys",
+  "repository": "https://github.com/GasComIT/Spike",
+  "logo": "https://i.imgur.com/GlcMZPx.jpeg",
+  "keywords": ["nodejs", "bot","Spike","whatsapp bot", "whatsapp automation", "multi device"],
+   "success_url": "/",
+  "env": {
+    "PORT": {
+    "description": "Port of your bot 8080",
+     "required": true,"value":"8080"
+    },
+    "NAME": {
+    "description": "Name for your bot",
+    "required": true,"value":"Spike"
+    },
+    "PREFIX": {
+    "description": "Set the prefix, can be any #",
+    "required": true,"value":"."
+    },
+    "MODS": {
+    "description": "Set the mods of the bot. Please use @s.whatsapp.net at the end and use , if u r adding multiple numbers. Ex: 254xxxxxxxx@s.whatsapp.net, 254xxxxxxxx@s.whatsapp.net",
+    "required": true,"value":"25475992xxxx@s.whatsapp.net"
+    },
+    "APPNAME": {
+     "description": "It will throw a get request to your app every 5 minutes interval.",
+     "required": true,"value":""
+    },
+    "TZ": {
+     "description": "Time zone of your place E.g 'Africa/Nairobi'",
+     "required": true ,"value":"Africa/Nairobi"
+    },
+    "MONGODB": {
+     "description": "A secret String for Mongodb Connection.(Required)",
+     "required": true 
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    },
+    {
+      "url": "https://github.com/ItsJimi/heroku-buildpack-pm2"
+    }
+  ],
+   "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
