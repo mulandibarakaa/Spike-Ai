@@ -2,10 +2,10 @@
 //│║⦁ 𝐧𝐚𝐦𝐞:𝐒𝐩𝐢𝐤𝐞 🍃
 //│║⦁ whatsapp gaming userbot with automation,moderation,music, fun and 100+ commands!
 //│║⦁ 𝐠𝐩𝐚𝐲: +254718241545
-//│║⦁ 𝐮𝐩𝐢: krakinzlab@oksbi
-//│║⦁ 𝐠𝐢𝐭: github.com/GasComIT
-//│║⦁ 𝐠𝐫𝐨𝐮𝐩: spike.gascomit.repl.co
-//│║⭕ youtube.com/@krakinzlab
+//│║⦁ 𝐮𝐩𝐢: spikeinc@oksbi
+//│║⦁ 𝐠𝐢𝐭: github.com/Mohalicious
+//│║⦁ 𝐠𝐫𝐨𝐮𝐩: spike.mohalicious.repl.co
+//│║⭕ youtube.com/@donbelovibel
 //│┗━━━━━━━━━━━━━━
 //╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ━ 🍃
 
@@ -131,7 +131,7 @@ Pino({ level: 'silent' })  // )
 │║⦁ Type *${prefix}menu* to view all commands
 │║⦁ Type *${prefix}rules* to read group rules
 │║⦁ Type *${prefix}repo* to get source code
-│║⦁ Owner: GasComIT ( Benson )
+│║⦁ Owner: Mohalicious ( Abdulrahman )
 │┗━━━━━━━━━━━━━━━━
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ━ ━ 🍃`
                             sock.sendMessage(client.id, {
@@ -231,8 +231,8 @@ setInterval(async function () {
 //│║⦁ 𝐧𝐚𝐦𝐞:𝐒𝐩𝐢𝐤𝐞 🍃
 //│║⦁ whatsapp gaming userbot with automation,moderation,music, fun and 100+ commands!
 //│║⦁ 𝐠𝐩𝐚𝐲: +254718241545
-//│║⦁ 𝐮𝐩𝐢: krakinzlab@oksbi
-//│║⦁ 𝐠𝐢𝐭: github.com/GasComIT
-//│║⦁ 𝐠𝐫𝐨𝐮𝐩: spike.gascomit.repl.co
-//│║⭕ youtube.com/@krakinzlab
+//│║⦁ 𝐮𝐩𝐢: spikeinc@oksbi
+//│║⦁ 𝐠𝐢𝐭: github.com/Mohalicious 
+//│║⦁ 𝐠𝐫𝐨𝐮𝐩: spike.mohalicious.repl.co
+//│║⭕ youtube.com/@donbelovibel
 // ╚═══════════════════ 🍃
