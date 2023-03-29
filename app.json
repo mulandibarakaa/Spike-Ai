@@ -1,6 +1,6 @@
 {
   "name": "❝ Ⓒ𝐒𝐩𝐢𝐤𝐞 ❞",
-  "description": "whatsapp multi device bot by GasComIT build with nodejs on baileys",
+  "description": "whatsapp multi device bot by Mohalicious build with nodejs on baileys",
   "repository": "https://github.com/GasComIT/Spike",
   "logo": "https://i.imgur.com/GlcMZPx.jpeg",
   "keywords": ["nodejs", "bot","Spike","whatsapp bot", "whatsapp automation", "multi device"],
@@ -20,7 +20,7 @@
     },
     "MODS": {
     "description": "Set the mods of the bot. Please use @s.whatsapp.net at the end and use , if u r adding multiple numbers. Ex: 254xxxxxxxx@s.whatsapp.net, 254xxxxxxxx@s.whatsapp.net",
-    "required": true,"value":"25475992xxxx@s.whatsapp.net"
+    "required": true,"value":"2547353060xxxx@s.whatsapp.net"
     },
     "APPNAME": {
      "description": "It will throw a get request to your app every 5 minutes interval.",
