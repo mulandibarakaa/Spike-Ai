@@ -4,7 +4,7 @@
 //│║⦁ 𝐠𝐩𝐚𝐲: +254718241545
 //│║⦁ 𝐮𝐩𝐢: spikeinc@oksbi
 //│║⦁ 𝐠𝐢𝐭: github.com/Mohalicious
-//│║⦁ 𝐠𝐫𝐨𝐮𝐩: spike.mohalicious.repl.co
+//│║⦁ 𝐠𝐫𝐨𝐮𝐩: spike.ace.repl.co
 //│║⭕ youtube.com/@donbelovibel
 //│┗━━━━━━━━━━━━━━
 //╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ━ 🍃
@@ -131,7 +131,7 @@ Pino({ level: 'silent' })  // )
 │║⦁ Type *${prefix}menu* to view all commands
 │║⦁ Type *${prefix}rules* to read group rules
 │║⦁ Type *${prefix}repo* to get source code
-│║⦁ Owner: Mohalicious ( Abdulrahman )
+│║⦁ Owner: Moha ( human )
 │┗━━━━━━━━━━━━━━━━
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ━ ━ 🍃`
                             sock.sendMessage(client.id, {
@@ -233,6 +233,6 @@ setInterval(async function () {
 //│║⦁ 𝐠𝐩𝐚𝐲: +254718241545
 //│║⦁ 𝐮𝐩𝐢: spikeinc@oksbi
 //│║⦁ 𝐠𝐢𝐭: github.com/Mohalicious 
-//│║⦁ 𝐠𝐫𝐨𝐮𝐩: spike.mohalicious.repl.co
+//│║⦁ 𝐠𝐫𝐨𝐮𝐩: spike.ace.repl.co
 //│║⭕ youtube.com/@donbelovibel
 // ╚═══════════════════ 🍃
