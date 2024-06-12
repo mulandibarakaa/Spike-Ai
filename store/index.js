@@ -1,7 +1,7 @@
 //┌╔════『 🎐𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧🎐 』═══════
 //│║⦁ 𝐧𝐚𝐦𝐞:𝐒𝐩𝐢𝐤𝐞 🍃
 //│║⦁ whatsapp gaming userbot with automation,moderation,music, fun and 100+ commands!
-//│║⦁ 𝐠𝐩𝐚𝐲: +254718241545
+//│║⦁ 𝐠𝐩𝐚𝐲: +2547******
 //│║⦁ 𝐮𝐩𝐢: spikeinc@oksbi
 //│║⦁ 𝐠𝐢𝐭: github.com/Mohalicious
 //│║⦁ 𝐠𝐫𝐨𝐮𝐩: spike.mohalicious.repl.co
